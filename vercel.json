@@ -11,7 +11,7 @@
           "src": "/*",
             "headers": {
               "Accept-CH": "DPR, Width, Viewport-Width",
-              "Feature-Policy": "ch-dpr https://tom.imgix.net 'self'; ch-width https://tom.imgix.net 'self'; ch-viewport-width https://tom.imgix.net 'self'"
+              "Feature-Policy": "ch-dpr https://imgix.cosmicjs.com 'self'; ch-width https://imgix.cosmicjs.com 'self'; ch-viewport-width https://imgix.cosmicjs.com 'self'"
             }
         }
       ]
