@@ -1,6 +1,5 @@
-# cosmic-nuxt-fan-site
-This is a Nuxt App built using Cosmic as it's Headless CMS.  It utilizes Apollo to access the Cosmic v3 Graph QL.  It uses Tailwind CSS as the css framework.  It utilizes Cosmic's built integration with imgix to build out responsive images as well as advances use cases such as gif to mp4, og image optimization, and blending with text.
-
+# tom-template
+This is Tom's Template. It is set up with Nuxt, Tailwind, & Vercel.  It has componenets for sharing your og title, description, & images with imgix.  It also has a decent Navbar already set up as well.
 ## Build Setup
 
 ```bash

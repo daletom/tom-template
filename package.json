@@ -1,7 +1,7 @@
 {
-  "name": "cosmic-nuxt-fan-site-template",
+  "name": "tom-template",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -9,7 +9,6 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/apollo": "^4.0.1-rc.5",
     "@tailwindcss/typography": "^0.4.1",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7",

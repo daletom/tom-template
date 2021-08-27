@@ -1,18 +1,15 @@
 <template>
-  <div class="p-4">
-    <Episodes v-bind:data="getObjects.objects" />
-  </div>
+    <div>
+This is the Section 1 Page
+    </div>
 </template>
 
 <script>
-import getObjects from '../../apollo/queries/allEpisodes.gql'
-
-export default {
-  apollo: {
-    getObjects: {
-      prefetch: true,
-      query: getObjects,
+    export default {
+        
     }
-  },
-};
 </script>
+
+<style>
+
+</style>
